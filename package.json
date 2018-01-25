@@ -1,7 +1,7 @@
 {
   "name": "array-unpivot",
-  "version": "1.0.1",
-  "description": "array-pivot backwards",
+  "version": "1.0.2",
+  "description": "Pivot object of arrays into arrays of object. Mirror function for array-pivot",
   "main": "unpivot.js",
   "author": "Hanju Kim <hanjukim@gmail.com>",
   "license": "MIT",
