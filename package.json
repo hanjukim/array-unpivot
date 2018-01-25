@@ -1,6 +1,6 @@
 {
   "name": "array-unpivot",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Pivot object of arrays into arrays of object. Mirror function for array-pivot",
   "main": "unpivot.js",
   "author": "Hanju Kim <hanjukim@gmail.com>",
@@ -8,8 +8,7 @@
   "keywords": [
     "pivot",
     "pivottable",
-    "table",
-    "array-pivot"
+    "table"
   ],
   "repository": {
     "type": "git",
