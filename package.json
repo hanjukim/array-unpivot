@@ -1,6 +1,6 @@
 {
   "name": "array-unpivot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "array-pivot backwards",
   "main": "unpivot.js",
   "author": "Hanju Kim <hanjukim@gmail.com>",
