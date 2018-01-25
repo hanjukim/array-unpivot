@@ -1,0 +1,15 @@
+{
+  "name": "array-unpivot",
+  "version": "1.0.0",
+  "description": "array-pivot backwards",
+  "main": "unpivot.js",
+  "author": "Hanju Kim <hanjukim@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hanjukim/array-unpivot.git"
+  },
+  "devDependencies": {
+    "tape": "~4.0.0"
+  }
+}
