@@ -3,7 +3,7 @@ array-pivot
 
 [![NPM](https://nodei.co/npm/array-unpivot.png)](https://nodei.co/npm/array-unpivot/)
 
-Pivot arrays of objects by key into a single object with a superset of keys containing arrays of each record's values. Similar to a pivot table in a spreadsheet.
+Pivot object of arrays into arrays of object. Mirror function for [array-pivot](https://www.npmjs.com/package/array-pivot)
 
 ```javascript
 var unpivot = require('array-unpivot')
