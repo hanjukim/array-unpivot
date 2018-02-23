@@ -1,4 +1,4 @@
-array-pivot
+array-unpivot
 =====
 
 [![NPM](https://nodei.co/npm/array-unpivot.png)](https://nodei.co/npm/array-unpivot/)
