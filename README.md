@@ -3,7 +3,7 @@ array-unpivot
 
 [![NPM](https://nodei.co/npm/array-unpivot.png)](https://nodei.co/npm/array-unpivot/)
 
-Pivot object of arrays into arrays of object. Mirror function for [array-pivot](https://www.npmjs.com/package/array-pivot)
+Pivot object of arrays into arrays of object. Inverse function for [array-pivot](https://www.npmjs.com/package/array-pivot)
 
 ```javascript
 var unpivot = require('array-unpivot')
