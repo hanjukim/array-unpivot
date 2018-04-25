@@ -2,19 +2,31 @@
   "name": "array-unpivot",
   "version": "1.0.4",
   "description": "Pivot object of arrays into arrays of object. Mirror function for array-pivot",
-  "main": "unpivot.js",
-  "author": "Hanju Kim <hanjukim@gmail.com>",
-  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "ava",
+    "prepublishOnly": "npm run build"
+  },
+  "author": {
+    "name": "Hanju Kim",
+    "email": "hanjukim@gmail.com"
+  },
+  "license": "Apache-2.0",
   "keywords": [
     "pivot",
     "pivottable",
-    "table"
+    "unpivot",
+    "table",
+    "array"
   ],
   "repository": {
     "type": "git",
     "url": "git@github.com:hanjukim/array-unpivot.git"
   },
   "devDependencies": {
-    "tape": "~4.0.0"
+    "ava": "^0.25.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
   }
 }

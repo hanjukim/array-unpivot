@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "benchmark": "*",
+    "array-unpivot": "*"
+  }
+}
