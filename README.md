@@ -3,9 +3,15 @@ array-unpivot
 
 [![NPM](https://nodei.co/npm/array-unpivot.png)](https://nodei.co/npm/array-unpivot/)
 
-Pivot object of arrays into arrays of object. Inverse function for [array-pivot](https://www.npmjs.com/package/array-pivot)
+> Pivot object of arrays into arrays of object. Inverse function for [array-pivot](https://www.npmjs.com/package/array-pivot)
 
-```javascript
+## Install
+```bash
+$ yarn add array-unpivot
+```
+
+## Usage
+```js
 var unpivot = require('array-unpivot')
 
 var data = {
@@ -25,12 +31,13 @@ console.log(unpivot(data))
 
 ```
 
-API
-===
+## API
 
-`unpivot(data)`
+### unpivot(data)
+#### data
+Type: `Object`
 
-LICENSE
-=======
+Object of arrays
 
-MIT
+## License
+Source files are distributed under the Apache Version 2.0 license found in the LICENSE file.

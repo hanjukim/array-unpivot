@@ -22,8 +22,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:hanjukim/array-unpivot.git"
+    "url": "git+https://github.com/hanjukim/array-unpivot.git"
   },
+  "bugs": {
+    "url": "https://github.com/hanjukim/array-unpivot/issues"
+  },
+  "homepage": "https://github.com/hanjukim/array-unpivot#readme",
   "devDependencies": {
     "ava": "^0.25.0",
     "babel-core": "^6.26.0",
