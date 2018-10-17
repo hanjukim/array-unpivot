@@ -7,7 +7,7 @@ array-unpivot
 
 ## Install
 ```bash
-$ yarn add array-unpivot
+$ npm install array-unpivot
 ```
 
 ## Usage
