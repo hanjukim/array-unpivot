@@ -2,8 +2,8 @@
   "scripts": {
     "start": "node bench.js"
   },
-  "devDependencies": {
-    "array-unpivot": "^1.0.8",
-    "benchmark": "*"
+  "dependencies": {
+    "benchmark": "*",
+    "array-unpivot": "^1.0.9"
   }
 }
