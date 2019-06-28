@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-array-unpivot@^1.0.9:
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/array-unpivot/-/array-unpivot-1.0.9.tgz#ab4878ac2edf02727250f91871eed86881a8729a"
-  integrity sha512-yUtHjtlYUibS1rB5MSM0bkWEEmmpBE5W0qESGZJwQ/VXTx/w65earnVY5/O5GmRe9TUHGOhh0T32+pLF4RD04g==
+array-unpivot@*:
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/array-unpivot/-/array-unpivot-1.0.11.tgz#b1c5497abee994ee26f27541f048cea4858dae98"
+  integrity sha512-b2alAyiN4KHK1uUpj5RUQQcvJ3OdVTG4OXL1Q71bL8040Se7D/reOyvXXxqqZ43laJ4U/N3FbdAaxN2Ic9+lsA==
 
 benchmark@*:
   version "2.1.4"
