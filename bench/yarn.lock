@@ -3,9 +3,9 @@
 
 
 array-unpivot@*:
-  version "1.0.11"
-  resolved "https://registry.yarnpkg.com/array-unpivot/-/array-unpivot-1.0.11.tgz#b1c5497abee994ee26f27541f048cea4858dae98"
-  integrity sha512-b2alAyiN4KHK1uUpj5RUQQcvJ3OdVTG4OXL1Q71bL8040Se7D/reOyvXXxqqZ43laJ4U/N3FbdAaxN2Ic9+lsA==
+  version "1.0.12"
+  resolved "https://registry.yarnpkg.com/array-unpivot/-/array-unpivot-1.0.12.tgz#b7a63b0da3a43bfe36af62ffe6efccaab50f7c21"
+  integrity sha512-p45KnXomPCfkTWsV8EJ5xAAw8Ev9ajN3/TUlPc/XC2ca6IIs08QJj0xz99VJXrP4msJ+EmEUv/i3iPosUe6xJQ==
 
 benchmark@*:
   version "2.1.4"
@@ -16,9 +16,9 @@ benchmark@*:
     platform "^1.3.3"
 
 lodash@^4.17.4:
-  version "4.17.11"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
-  integrity sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg==
+  version "4.17.14"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.14.tgz#9ce487ae66c96254fe20b599f21b6816028078ba"
+  integrity sha512-mmKYbW3GLuJeX+iGP+Y7Gp1AiGHGbXHCOh/jZmrawMmsE7MS4znI3RL2FsjbqOyMayHInjOeykW7PEajUk1/xw==
 
 platform@^1.3.3:
   version "1.3.5"
