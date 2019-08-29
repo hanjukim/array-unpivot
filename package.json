@@ -1,6 +1,6 @@
 {
   "name": "array-unpivot",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Pivot object of arrays into arrays of object. Mirror function for array-pivot",
   "main": "lib/index.js",
   "scripts": {
